@@ -1,0 +1,7 @@
+<?php
+$friends=array("Tim", "Karen", "Noah")
+echo $friends[1];
+
+
+
+?>
